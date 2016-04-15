@@ -1,0 +1,8 @@
+package j20;
+
+public class axis {
+	void rateofinterest(){
+		System.out.println("Rate is 7%");
+	}
+
+}

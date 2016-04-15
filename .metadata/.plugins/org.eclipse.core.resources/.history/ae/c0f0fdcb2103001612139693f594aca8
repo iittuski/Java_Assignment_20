@@ -1,0 +1,7 @@
+package j20;
+
+public class sbi {
+	void rateofinterest(){
+		System.out.println("Rate is 11%");
+	}
+}

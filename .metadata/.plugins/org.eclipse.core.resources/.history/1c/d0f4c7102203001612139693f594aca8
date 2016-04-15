@@ -1,0 +1,10 @@
+package j20;
+
+public class superbank extends axis{
+
+	void rateofinterest(int i){
+		System.out.println("Rate is"+i);
+	}
+	
+	
+}

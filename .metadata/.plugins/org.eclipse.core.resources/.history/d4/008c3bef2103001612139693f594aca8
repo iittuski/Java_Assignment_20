@@ -1,0 +1,8 @@
+package j20;
+
+public class sbi extends superbank{
+	void rateofinterest(){
+		System.out.println("Rate is 11%");
+		
+	}
+}
