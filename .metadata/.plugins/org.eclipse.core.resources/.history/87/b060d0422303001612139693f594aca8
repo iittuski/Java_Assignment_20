@@ -1,6 +1,6 @@
 package j20;
 
-public class icici extends superbank{
+public class icici {
 	void rateofinterest() {
 		System.out.println("Rate is 9%");
 	}
